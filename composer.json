@@ -1,0 +1,21 @@
+{
+    "name": "camrschuette/json-patch",
+    "description": "Models for sending Json PATCH requests",
+    "keywords": [
+        "json",
+        "patch"
+    ],
+    "type": "library",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Cameron Schuette",
+            "email": "cam.r.schuette@criticalmix.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "JPO\\": "src"
+        }
+    }
+}
